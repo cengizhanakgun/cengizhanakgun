@@ -8,7 +8,7 @@
 <a href="https://linkedin.com/in/cengizhanakgun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cengizhanakgun" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/15763608" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="15763608" height="30" width="40" /></a>
 <a href="https://medium.com/@cengizhanakgun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@cengizhanakgun" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@cengizhanakgun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@cengizhanakgun" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@cengizhanakgun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@cengizhanakgun" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
