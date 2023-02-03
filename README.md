@@ -7,12 +7,16 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/cengizhanakgun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cengizhanakgun" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/15763608" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="15763608" height="30" width="40" /></a>
-<a href="https://medium.com/cengizhanakgun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="cengizhanakgun" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/cengizhanakgun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="cengizhanakgun" height="30" width="40" /></a>
+<a href="https://medium.com/@cengizhanakgun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@cengizhanakgun" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/@cengizhanakgun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@cengizhanakgun" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -25,4 +29,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cengizhanakgun&show_icons=true&locale=en" alt="cengizhanakgun" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cengizhanakgun&" alt="cengizhanakgun" /></p>
 
