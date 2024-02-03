@@ -24,7 +24,11 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/cengizhanakgun"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="cengizhanakgun" /></a><a href="https://ko-fi.com/cengizhanakgun"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="cengizhanakgun" /></a></p><br><br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cengizhanakgun&show_icons=true&locale=en&layout=compact" alt="cengizhanakgun" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cengizhanakgun&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="cengizhanakgun" /></p>
 
 
+<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cengizhanakgun&theme=tokyonight&hide_border=true" alt="cengizhanakgun" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cengizhanakgun&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="cengizhanakgun" /></p>
 
