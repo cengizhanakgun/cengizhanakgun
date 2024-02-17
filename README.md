@@ -1,4 +1,4 @@
-<meta name="google-site-verification" content="aELqCDk0NS3KsJ-zQeBYR0Av4E9ZkGOsF3LRs6cVwvY" />
+
 <h1 align="center">Hi 👋, I'm Cengizhan</h1>
 <h3 align="center">
   "Diving headfirst into the exhilarating universe of ASP.NET, ASP MVC, C#, and the electrifying realm of cybersecurity, fueled by boundless curiosity and a thirst for knowledge."
