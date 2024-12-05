@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Cengizhan</h1>
 <h3 align="center">
-  "Diving headfirst into the exhilarating universe of ASP.NET, ASP MVC, C#, and the electrifying realm of cybersecurity, fueled by boundless curiosity and a thirst for knowledge."
+
 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cengizhanakgun&label=Profile%20views&color=0e75b6&style=flat" alt="cengizhanakgun" /> </p>
